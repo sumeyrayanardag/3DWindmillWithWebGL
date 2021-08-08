@@ -1,4 +1,4 @@
-# 3DWindwill-with-WebGL
+# 3DWindmillWithWebGL
 
 To see the project, you should download the project and open Windmill -> Windmill -> windmill.html.
 
